@@ -1,5 +1,11 @@
-## olá! Eu sou Jorge Douglas Steel
-- 📚 Estudante de engenharia da computação
+# Olá, eu sou o Douglas 👋
+
+🎓 Estudante de Engenharia da Computação - 7º período  
+👨‍💻 Desenvolvedor Front-end em formação  
+🚀 Apaixonado por criar interfaces modernas, responsivas e acessíveis  
+📚 Estudando: React, JavaScript, CSS moderno e APIs REST  
+📫 Contato: douglas.steel13@email.com.br 
+
 <div align="left">
   <a href="https://github.com/JDouglassteel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JDouglassteel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
