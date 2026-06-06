@@ -1,7 +1,9 @@
-# Olá, eu sou o Douglas 👋
+# Olá, eu sou o Jorge Douglas👋
 
-🎓 Estudante de Engenharia da Computação - 7º período  
-👨‍💻 Desenvolvedor Front-end em formação  
+Apaixonado por tecnologia iniciando em análise de dados no mundo digital
+
+🎓 Estudante de Engenharia da Computação
+🌱 Atualmente estou aprendendo Python e Machine Learning
 🚀 Apaixonado por criar interfaces modernas, responsivas e acessíveis  
 📚 Estudando: React, JavaScript, CSS moderno e APIs REST  
 📫 Contato: douglas.steel13@email.com.br 
